@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# To run:
-# chmond +x extract.sh
-# ./extract.sh <FILE>
+# Add this function to your .bashrc file and you can decompress
+# most compressed file types with just:
+#  --> extract </path/to/file/> 
 
 # Got this script from:
 # https://serverfault.com/a/3842
